@@ -24,6 +24,7 @@ function App() {
       <Router>
          <AuthProvider>
         <div className="app">
+          
           <Header />
           <Routes>
             <Route path="/" element={<Home />} />

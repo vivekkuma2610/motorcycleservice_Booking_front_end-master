@@ -9,7 +9,7 @@ const About = () => {
         <p>
           Hey Look, Past 30 years we were relationship with motorcycles. 
           I mean we are motorcycle lovers. 
-          We will take care it!!!!!!!!!!!!!!!!
+          We will take care it than you !!!!!!!!!!1
         </p>
       </div>
     
