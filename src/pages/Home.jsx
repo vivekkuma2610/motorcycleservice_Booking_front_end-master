@@ -53,7 +53,7 @@ const Home = () => {
 </p>
       </div>
         <h1 className="display-4 text-primary mb-4 fw-bold">
-          Welcome to PVK Motorcycle Services
+          Welcome to Suzu Motorcycle Services
         </h1>
         <p className="fst-italic text-capitalize fs-2 text-secondary">
           We will spend quality time to take care of your moments with loved ones

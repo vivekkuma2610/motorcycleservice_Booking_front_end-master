@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer className="footer mt-auto py-3 bg-light">
       <div className="container text-center">
-        <p>&copy; 2023 PVK Motorcycle Services. All rights reserved.</p>
+        <p>&copy; 2023 Suzu Motorcycle Services. All rights reserved.</p>
         <div>
           <Link className="footer-link" to="/privacy-policy">Privacy Policy</Link> | <Link className="footer-link" to="/terms-of-service">Terms of Service</Link>
         </div>
