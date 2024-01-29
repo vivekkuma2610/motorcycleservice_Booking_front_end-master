@@ -85,7 +85,7 @@ const Booking = () => {
       };
 
       const response = await axios.post(
-        'https://motor-cycle-servicebooking-back-end.onrender.com/bookings',
+        'https://motorcycleservice-booking-back-end-master-o7c5.onrender.com/',
         requestData,
         {
           headers: {
