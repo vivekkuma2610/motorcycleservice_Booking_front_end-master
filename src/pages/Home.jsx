@@ -132,7 +132,7 @@ const Home = () => {
 <br></br>
         <h2>About Us</h2>
         <p>
-          With over 12 years of experience, PVK Motorcycle Services is not just a business; it's a
+          With over 25 years of experience, PVK Motorcycle Services is not just a business; it's a
           passion. We are dedicated motorcycle enthusiasts who believe that every bike deserves the
           best care. Our skilled team of mechanics and technicians ensures that your motorcycle gets
           the attention it deserves from routine maintenance to performance upgrades.
